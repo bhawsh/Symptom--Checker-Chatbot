@@ -16,6 +16,8 @@ An AI-powered medical assistant chatbot specifically trained to help with abdomi
 
 ### Backend
 - **Framework**: Flask (Python)
+- Langchain framework-it connects the embedding model,and frontend for the react user interface.
+  
 - **AI/ML**: 
   - Sentence Transformers (all-MiniLM-L6-v2)
   - PyTorch
